@@ -211,6 +211,4 @@ visualization_numpy/
 
 # Simulation output
 *.pkl
-*.gif
-!a_-1.0_b_1.0_K_1.0_r_30_S_1.0_Q.gif
 *.mp4
